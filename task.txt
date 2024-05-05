@@ -1,0 +1,82 @@
+REST API --> JSON DATA
+
+Grt /users - Html Document Render
+GET /api/users - List all users ---------- || --> DONE!!
+
+
+GET /users/1 - Get user by id 1 ----------- || --> Done!!
+GET /users/2 - Get user by id 2 ----------- || --> Done!!
+
+//Dynamic path Parameters
+GET /users/:id - get user by id ----------- || --> Done!!
+:id --> Variable | Dynamic
+
+POST /users - Create new user
+
+PATCH /users/1 - Edit the user with id 1
+
+DELETE /users/1 - Delete the user with id 1
+
+
+HTTP response Status code
+  informational responses --> 100-199
+  Successful responses --> 200-299
+  Redirection messages --> 300-399
+  Client error responses --> 400-499
+  Server error responses --> 500-599
+
+100-199
+  -- 100 => Continue
+  101 --> Switching Protocols
+  102 --> Processing
+  103 --> Early Hints
+
+200-299
+  200 --> Ok
+  201 --> Created
+  202 --> Accepted
+  203 --> Non-Authoritative Information
+  204 --> No Content
+  205 --> Reset Content
+  206 --> Partial Content
+  207 --> Multi-Status
+  208 --> Already Reported
+  226 --> IM Used
+
+300-399
+  300 --> Multiple choices
+  301 --> Moved Permanently
+  302 --> Found
+
+400-499
+  400 --> Bad Request
+  401 --> Unauthorized
+  402 --> Payment Required
+  403 --> Forbidden
+  404 --> Not Found
+
+500-599
+  500 --> Internal Server Error
+  501 --> Not implemented
+  502 --> Bad Gateway
+  503 --> Service Unavailable
+  504 --> Gateway Timeout
+  505 --> HTTP Version Not Supported
+  506 --> verification also negitiated
+
+
+Mongo-DB:
+  No-SQL Document based database
+  Strong support for aggregation Pipes
+  Works on BSON format
+  Best for node applications
+  ==========================
+  ==========================
+  Collections => Documents
+
+Schema - Define the Structure
+  Schema - Model
+  using Model we do CRUD operations
+
+
+

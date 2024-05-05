@@ -1,0 +1,80 @@
+Request URL: / 
+--Request Method: GET 
+--Time: 5/5/2024, 7:00:22 pm
+
+Request URL: / 
+--Request Method: GET 
+--Time: 5/5/2024, 7:00:35 pm
+
+Request URL: / 
+--Request Method: GET 
+--Time: 5/5/2024, 7:26:34 pm
+
+Request URL: /users 
+--Request Method: GET 
+--Time: 5/5/2024, 7:26:39 pm
+
+Request URL: /user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:26:44 pm
+
+Request URL: /user/66377f0b742cfe4abef0d341 
+--Request Method: GET 
+--Time: 5/5/2024, 7:27:04 pm
+
+Request URL: /user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:27:12 pm
+
+Request URL: / 
+--Request Method: GET 
+--Time: 5/5/2024, 7:36:30 pm
+
+Request URL: /user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:36:31 pm
+
+Request URL: /user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:36:39 pm
+
+Request URL: / 
+--Request Method: GET 
+--Time: 5/5/2024, 7:41:07 pm
+
+Request URL: /users/api 
+--Request Method: GET 
+--Time: 5/5/2024, 7:44:27 pm
+
+Request URL: /api/user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:44:38 pm
+
+Request URL: /api/user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:44:52 pm
+
+Request URL: /api/user/66378590c0cf0b78aadc7052 
+--Request Method: DELETE 
+--Time: 5/5/2024, 7:45:12 pm
+
+Request URL: /api/user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:45:15 pm
+
+Request URL: /api/user 
+--Request Method: POST 
+--Time: 5/5/2024, 7:45:25 pm
+
+Request URL: /api/user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:45:27 pm
+
+Request URL: /api/user/6637947d711a952d13d1f41c 
+--Request Method: PATCH 
+--Time: 5/5/2024, 7:45:44 pm
+
+Request URL: /api/user 
+--Request Method: GET 
+--Time: 5/5/2024, 7:45:47 pm
+
